@@ -11,4 +11,5 @@ Analysis in MYSQL = [Analysis](https://github.com/Gaboytes/Pizza-SQL-Project/blo
 
 
 ### Dashboard
-![image](https://github.com/Gaboytes/Pizza-SQL-Project/assets/145523136/bc7eba8d-cf2a-448b-aa8c-519d99d47d53)
+![image](https://github.com/Gaboytes/Pizza-SQL-Project/assets/145523136/b9e5532e-3a19-4505-8ae7-288bf72eacec)
+
